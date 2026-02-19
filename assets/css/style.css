@@ -80,9 +80,9 @@ em {
 }
 
 :root {
-    --color-primary: #FF5E14;
-    --color-primary-2: #FF5E14;
-    --color-secondary: #FF7029;
+    --color-primary: #eab224 ;
+    --color-primary-2: #eab224 ;
+    --color-secondary: #eab224 ;
     --color-secondary: rgb(255, 112, 41, .20);
     --color-body: #6E777D;
     --color-body-2: #717580;
@@ -26490,7 +26490,7 @@ li.has-dropdown .submenu li.has-third-lev>a {
     }
 
     header.header-seven.inner .header-mid-one-wrapper .nav-area {
-        margin-left: 30px
+        margin-left: 300px
     }
 
     header.header-six .header-mid-area .left .search-area form {
@@ -28395,7 +28395,7 @@ li.has-dropdown .submenu li.has-third-lev>a {
     left: 0;
     z-index: 1;
     transition: var(--transition);
-    background: linear-gradient(180deg, rgba(255, 112, 41, .1722) 0, rgba(255, 112, 41, .82) 100%)
+    background: linear-gradient(180deg, rgba(234, 178, 36, .1722) 0, rgba(42, 84, 41        , .82) 100%)
 }
 
 .project-single2 .tmp-icon-overlay-link-btn {
