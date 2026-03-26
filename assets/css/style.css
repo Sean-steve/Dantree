@@ -81,7 +81,7 @@ em {
 
 :root {
     --color-primary: #eab224 ;
-    --color-primary-2: #eab224 ;
+    --color-primary-2: #2a5429;
     --color-secondary: #eab224 ;
     --color-secondary: rgb(255, 112, 41, .20);
     --color-body: #6E777D;
@@ -33745,7 +33745,7 @@ li.has-dropdown .submenu li.has-third-lev>a i {
 .invers-feature-card-one:hover,
 .our-newsletter-area-start .news-letter-modern-wrapper input:focus,
 .tmp-cart-area .cart-footer form input:focus {
-    border: 2px solid var(--color-primary)
+    border: 2px solid #2a5429
 }
 
 .margin-top-feature-ev-charging.margin-top-feature-ev-charging {
